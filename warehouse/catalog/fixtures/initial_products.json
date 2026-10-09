@@ -1,0 +1,12 @@
+[
+  {"model": "catalog.product", "pk": 1, "fields": {"name": "Обідній стіл", "material": "Дерево", "dimensions": "120x80x75 см", "color": "Горіх", "price": "4500.00"}},
+  {"model": "catalog.product", "pk": 2, "fields": {"name": "Офісне крісло", "material": "Метал/Сітка", "dimensions": "60x60x110 см", "color": "Чорний", "price": "3200.00"}},
+  {"model": "catalog.product", "pk": 3, "fields": {"name": "Кутовий диван", "material": "Тканина", "dimensions": "250x150x90 см", "color": "Сірий", "price": "18500.00"}},
+  {"model": "catalog.product", "pk": 4, "fields": {"name": "Шафа-купе", "material": "ДСП", "dimensions": "180x60x220 см", "color": "Білий", "price": "12000.00"}},
+  {"model": "catalog.product", "pk": 5, "fields": {"name": "Двоспальне ліжко", "material": "Дерево", "dimensions": "160x200x100 см", "color": "Дуб сонома", "price": "9500.00"}},
+  {"model": "catalog.product", "pk": 6, "fields": {"name": "Комод", "material": "МДФ", "dimensions": "80x45x90 см", "color": "Венге", "price": "4100.00"}},
+  {"model": "catalog.product", "pk": 7, "fields": {"name": "Тумба під ТВ", "material": "ДСП", "dimensions": "150x40x50 см", "color": "Чорний", "price": "2800.00"}},
+  {"model": "catalog.product", "pk": 8, "fields": {"name": "Барний стілець", "material": "Дерево/Метал", "dimensions": "40x40x85 см", "color": "Коричневий", "price": "1500.00"}},
+  {"model": "catalog.product", "pk": 9, "fields": {"name": "Журнальний столик", "material": "Скло/Метал", "dimensions": "90x60x45 см", "color": "Прозорий", "price": "2200.00"}},
+  {"model": "catalog.product", "pk": 10, "fields": {"name": "Полиця навісна", "material": "ДСП", "dimensions": "100x20x25 см", "color": "Білий", "price": "600.00"}}
+]
